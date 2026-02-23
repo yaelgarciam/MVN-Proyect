@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+
+    "tomcat.home": "/opt/homebrew/opt/tomcat/libexec",
+    
+    "tomcat.javaHome": "/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home"
+}
